@@ -1,2 +1,2 @@
 # r-place-statistics
-![plot](.statistics.png)
+![plot](statistics.png)
